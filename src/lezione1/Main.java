@@ -10,10 +10,10 @@ public class Main {
         
         System.out.println("BASISSIME DI PROGRAMMAZIONE JAVA");
         
-            String f= JOptionPane.showInputDialog("inserisci un testo");
+            String frase= JOptionPane.showInputDialog("inserisci un testo");
         
-            System.out.println(f);
-            JOptionPane.showMessageDialog(null, f);
+            System.out.println(frase);
+            JOptionPane.showMessageDialog(null, frase);
        
     }
     
